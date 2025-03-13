@@ -3,7 +3,7 @@ deepspeed  llava/train/train_mem.py \
     --deepspeed ./scripts/zero3.json \
     --model_name_or_path /mnt/hwfile/opendatalab/deepfake/wensiwei/checkpoint/llava-v1.5-7b \
     --version v1 \
-    --data_path  playground/data/train.json \
+    --data_path  playground/data_json/train.json \
     --image_folder "playground/data/train" \
     --vision_tower openai/clip-vit-large-patch14-336 \
     --freeze_vision_tower False \
