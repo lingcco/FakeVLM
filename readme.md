@@ -55,9 +55,11 @@ playground
 
 ## 📌 Usage
 
-
 ## 📊 Results
-<img src="imgs/result.jpg" alt="result" width="500" height="auto">
+<div align="center">
+<img src="imgs/result.jpg" alt="result" width="400" height="auto">
+</div>
+
 
 <!-- ## 📝 Citation
 If you find our work useful in your research, please consider citing our paper:
