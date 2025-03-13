@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./imgs/logo.jpg" alt="Image Alt Text" width="150" height="150">
 <h3> Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation </h3> 
-
+</div>
 <img src="imgs/overview.png" alt="overview" width="700" height="auto">
 
 ## <img id="painting_icon" width="3%" src="https://cdn-icons-png.flaticon.com/256/599/599205.png"> FakeVLM Overview
