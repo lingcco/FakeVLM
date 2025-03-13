@@ -56,6 +56,7 @@ playground
 ## 📌 Usage
 
 ## 📊 Results
+Performance of 7 leading LMMs and FakeVLM on DD-VQA, Fake Clues and Loki
 <div align="center">
 <img src="imgs/result.jpg" alt="result" width="400" height="auto">
 </div>
