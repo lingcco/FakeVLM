@@ -1,8 +1,8 @@
 <div align="center">
 <img src="./imgs/logo.jpg" alt="Image Alt Text" width="150" height="150">
 <h3> Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation </h3> 
+<img src="imgs/overview.png" alt="overview" width="500" height="auto">
 </div>
-<img src="imgs/overview.png" alt="overview" width="700" height="auto">
 
 ## <img id="painting_icon" width="3%" src="https://cdn-icons-png.flaticon.com/256/599/599205.png"> FakeVLM Overview
 
@@ -57,7 +57,7 @@ playground
 
 
 ## 📊 Results
-<img src="imgs/result.jpg" alt="result" width="auto" height="auto">
+<img src="imgs/result.jpg" alt="result" width="500" height="auto">
 
 <!-- ## 📝 Citation
 If you find our work useful in your research, please consider citing our paper:
