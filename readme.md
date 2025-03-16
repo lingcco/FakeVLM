@@ -1,6 +1,6 @@
 <div align="center">
-<h1> <img src="./imgs/logo.jpg" alt="Image Alt Text" width="50" height="50" align="absmiddle"> Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation
- </h1> 
+<h2> <img src="./imgs/logo.jpg" alt="Image Alt Text" width="50" height="50" align="absmiddle"> Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation
+ </h2> 
 <img src="imgs/overview.png" alt="overview" width="500" height="auto">
 </div>
 
@@ -56,7 +56,7 @@ playground
 
 ## 📊 Results
 Performance of 7 leading LMMs and FakeVLM on DD-VQA, Fake Clues and Loki.
-### Dataset Descriptions
+
 - **FakeClue**  
   Ours dataset.
 - **LOKI**  
@@ -65,9 +65,9 @@ Performance of 7 leading LMMs and FakeVLM on DD-VQA, Fake Clues and Loki.
 <img src="imgs/fakeclue_loki_result.jpg" alt="framework" width="auto" height="auto">
 
 - **DD-VQA**  
-  A dataset for explaining facial artifacts, using **manual artifact annotations** in a VQA format. Artifacts include blurred hairlines, mismatched eyebrows, rigid pupils, and unnatural shadows. It builds on FF++ data and emphasizes common-sense reasoning.
+  A dataset for explaining facial artifacts, using **manual annotations** in a VQA format. Artifacts include blurred hairlines, mismatched eyebrows, rigid pupils, and unnatural shadows. It builds on FF++ data and emphasizes common-sense reasoning.
 
-<img src="imgs/ddvqa.jpg" alt="framework" width="auto" height="auto">
+<img src="imgs/ddvqa.jpg" alt="framework" width="500" height="auto">
 
 To provide a comprehensive comparison of the model performance across the three datasets—FakeClue, LOKI, and DD-VQA—we present the following radar chart. This chart visually highlights the strengths and weaknesses of the 7 leading LMMs and FakeVLM, offering a clear depiction of their results in synthetic detection and artifact explanation tasks.
 
