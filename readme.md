@@ -44,7 +44,6 @@ playground
             |--real
         .
         .
-        .
         |--satellite
     └──test
         .
@@ -57,6 +56,21 @@ playground
 
 ## 📊 Results
 Performance of 7 leading LMMs and FakeVLM on DD-VQA, Fake Clues and Loki.
+### Dataset Descriptions
+- **FakeClue**  
+  Ours dataset.
+- **LOKI**  
+  A new benchmark for evaluating multimodal models in synthetic detection tasks. It includes **human-annotated fine-grained image artifacts**, enabling deeper analysis of artifact explanations. We used its image modality, covering categories like Animals, Humans, Scenery, and Documents.
+
+<img src="imgs/fakeclue_loki_result.jpg" alt="framework" width="auto" height="auto">
+
+- **DD-VQA**  
+  A dataset for explaining facial artifacts, using **manual artifact annotations** in a VQA format. Artifacts include blurred hairlines, mismatched eyebrows, rigid pupils, and unnatural shadows. It builds on FF++ data and emphasizes common-sense reasoning.
+
+<img src="imgs/ddvqa.jpg" alt="framework" width="auto" height="auto">
+
+To provide a comprehensive comparison of the model performance across the three datasets—FakeClue, LOKI, and DD-VQA—we present the following radar chart. This chart visually highlights the strengths and weaknesses of the 7 leading LMMs and FakeVLM, offering a clear depiction of their results in synthetic detection and artifact explanation tasks.
+
 <div align="center">
 <img src="imgs/result.jpg" alt="result" width="400" height="auto">
 </div>
