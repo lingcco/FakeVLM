@@ -1,6 +1,6 @@
 <div align="center">
-<img src="./imgs/logo.jpg" alt="Image Alt Text" width="150" height="150">
-<h2> Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation </h2> 
+<h1> <img src="./imgs/logo.jpg" alt="Image Alt Text" width="50" height="50" align="absmiddle"> Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation
+ </h1> 
 <img src="imgs/overview.png" alt="overview" width="500" height="auto">
 </div>
 
