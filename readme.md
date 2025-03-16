@@ -67,7 +67,9 @@ Performance of 7 leading LMMs and FakeVLM on DD-VQA, Fake Clues and Loki.
 - **DD-VQA**  
   A dataset for explaining facial artifacts, using **manual annotations** in a VQA format. Artifacts include blurred hairlines, mismatched eyebrows, rigid pupils, and unnatural shadows. It builds on FF++ data and emphasizes common-sense reasoning.
 
+<div align="center">
 <img src="imgs/ddvqa.jpg" alt="framework" width="500" height="auto">
+</div>
 
 To provide a comprehensive comparison of the model performance across the three datasets—FakeClue, LOKI, and DD-VQA—we present the following radar chart. This chart visually highlights the strengths and weaknesses of the 7 leading LMMs and FakeVLM, offering a clear depiction of their results in synthetic detection and artifact explanation tasks.
 
