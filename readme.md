@@ -1,17 +1,19 @@
 <div align="center">
 <h2> <img src="./imgs/logo.jpg" alt="Image Alt Text" width="50" height="50" align="absmiddle"> Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation
- </h2> 
+</h2> 
+</div>
+
+[Siwei Wen](), [Junyan Ye](), [Peilin Feng](), [Hengrui Kang](), [Zichen Wen](), [Yize Chen](), [Jiang Wu](), [wenjun wu](), [Conghui He](), [Weijia Li]()
+
+<div align="center">
   <p align="center">
     <a href=''>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'> </a>
   </p>
 </div>
 
-[Siwei Wen](), [Junyan Ye](), [Peilin Feng](), [Hengrui Kang](), [Zichen Wen](), [Yize Chen](), [Jiang Wu](), [wenjun wu](), [Conghui He](), [Weijia Li]()
-
 ## 📰 News
 - **[2025.3.20]**: 🔥 We have released **Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation**. Check out the [paper](). We present FakeClue dataset and FakeVLM model.
-
 
 ## <img id="painting_icon" width="3%" src="https://cdn-icons-png.flaticon.com/256/599/599205.png"> FakeVLM Overview
 
