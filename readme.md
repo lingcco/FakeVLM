@@ -50,6 +50,7 @@ pip install flash-attn --no-build-isolation
 
 ## 📦 Dataset
 The directory containing the images should have the following structure:
+
 ```
 playground       
 └──data
