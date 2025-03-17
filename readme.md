@@ -9,8 +9,8 @@
 
 [Siwei Wen](), [Junyan Ye](), [Peilin Feng](), [Hengrui Kang](), [Zichen Wen](), [Yize Chen](), [Jiang Wu](), [wenjun wu](), [Conghui He](), [Weijia Li]()
 
-## 📰News
-- **[2025.3.20]**: 🔥 We have released **Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation**. We present FakeClue dataset and FakeVLM model.
+## 📰 News
+- **[2025.3.20]**: 🔥 We have released **Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation**. Check out the [paper](). We present FakeClue dataset and FakeVLM model.
 
 
 ## <img id="painting_icon" width="3%" src="https://cdn-icons-png.flaticon.com/256/599/599205.png"> FakeVLM Overview
